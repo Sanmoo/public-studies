@@ -12,7 +12,7 @@ type Edge struct {
 
 type Graph = map[string][]Edge
 
-func main() {
+func mainy() {
 	graph := make(Graph)
 
 	// Declared Graph

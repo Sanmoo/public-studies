@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func qSort(arr []int) []int {
 	if len(arr) < 2 {
 		return arr
